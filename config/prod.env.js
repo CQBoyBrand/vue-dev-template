@@ -4,5 +4,5 @@
 module.exports = {
   NODE_ENV: '"production"',
   ENV_CONFIG: '"prod"',
-  API_ROOT: '"https://www.prod.com/"',
+  API_ROOT: '"https://www.prod.com/"',// 改成你的线上地址
 }
